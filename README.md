@@ -10,6 +10,8 @@
   </p>
 </div>
 
+
+"Note: Because this is a pre-release beta, Windows and Microsoft Edge may flag the installer as unrecognized. You can safely click More Info -> Run Anyway to install the application."
 ---
 
 ## 🚀 Overview
