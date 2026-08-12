@@ -2,6 +2,12 @@
   <h1>Aegis Veles</h1>
   <p><b>Professional Live Teleprompting & Rundown Management Software</b></p>
   <p>Developed by <b>Phoenix Arc Studios</b></p>
+
+  <p>
+    <a href="https://github.com/PhoenixArcStudios/Aegis-Veles-Releases/releases/download/v1.1.0/Aegis-Veles-Setup-1.1.0.exe"><img src="https://img.shields.io/badge/Download-Windows%20Installer-blue?style=for-the-badge&logo=windows" alt="Download Windows"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/PhoenixArcStudios/Aegis-Veles-Releases/releases/download/v1.1.0/Aegis-Veles-1.1.0-arm64.dmg"><img src="https://img.shields.io/badge/Download-macOS%20DMG-lightgrey?style=for-the-badge&logo=apple" alt="Download macOS"></a>
+  </p>
 </div>
 
 ---
@@ -28,7 +34,7 @@ Whether you are managing a complex multi-block broadcast or running text for a l
 
 ## 📦 Getting Started & Installation
 
-1. Head over to the [Releases Page](https://github.com/PhoenixArcStudios/Aegis-Veles-Releases/releases) to download the latest installer for your operating system.
+1. Download the installer directly for your operating system using the buttons at the top of this page (or visit the [Releases Page](https://github.com/PhoenixArcStudios/Aegis-Veles-Releases/releases) for other versions).
 2. Run the installer and launch the application.
 3. Upon first launch, the built-in **Quick Start Guide** will automatically walk you through the core features and shortcuts. 
 4. Want to dive right in? We've bundled a complete **Sample Broadcast rundown** directly into the app—check your **Recent Shows** menu on the welcome screen to load it instantly!
