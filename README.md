@@ -6,7 +6,7 @@
   <p>
     <a href="https://github.com/PhoenixArcStudios/Aegis-Veles-Releases/releases/download/v1.1.0/Aegis-Veles-Setup-1.1.0.exe"><img src="https://img.shields.io/badge/Download-Windows%20Installer-blue?style=for-the-badge&logo=windows" alt="Download Windows"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/PhoenixArcStudios/Aegis-Veles-Releases/releases/download/v1.1.0/Aegis-Veles-1.1.0-arm64.dmg"><img src="https://img.shields.io/badge/Download-macOS%20DMG-lightgrey?style=for-the-badge&logo=apple" alt="Download macOS"></a>
+    <a href="https://github.com/PhoenixArcStudios/Aegis-Veles-Releases/releases/download/v1.1.0-beta/Aegis-Veles-Setup-1.1.0-beta.exe"><img src="https://img.shields.io/badge/Download-macOS%20DMG-lightgrey?style=for-the-badge&logo=apple" alt="Download macOS"></a>
   </p>
 </div>
 
